@@ -6,7 +6,7 @@ Target : Servo Control, Micropython, Basic CV
 
 Source : `https://www.instagram.com/reel/C5mzXNfL91w/?igsh=bHNqaTllMHBidmd5`
 
-# Micropython ESP32 Multicontrol 
+# Micropython ESP32 Relay Multicontrol 
 
 Target : IoT, Firebase, Micropython, PCB Design, Application
 
